@@ -1,0 +1,7 @@
+c:\users\dell\source\repos\MemoriaParticionadaEstatica\MemoriaParticionadaEstatica\bin\Debug\MemoriaParticionadaEstatica.exe.config
+c:\users\dell\source\repos\MemoriaParticionadaEstatica\MemoriaParticionadaEstatica\bin\Debug\MemoriaParticionadaEstatica.exe
+c:\users\dell\source\repos\MemoriaParticionadaEstatica\MemoriaParticionadaEstatica\bin\Debug\MemoriaParticionadaEstatica.pdb
+c:\users\dell\source\repos\MemoriaParticionadaEstatica\MemoriaParticionadaEstatica\obj\Debug\MemoriaParticionadaEstatica.csprojAssemblyReference.cache
+c:\users\dell\source\repos\MemoriaParticionadaEstatica\MemoriaParticionadaEstatica\obj\Debug\MemoriaParticionadaEstatica.csproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\MemoriaParticionadaEstatica\MemoriaParticionadaEstatica\obj\Debug\MemoriaParticionadaEstatica.exe
+c:\users\dell\source\repos\MemoriaParticionadaEstatica\MemoriaParticionadaEstatica\obj\Debug\MemoriaParticionadaEstatica.pdb

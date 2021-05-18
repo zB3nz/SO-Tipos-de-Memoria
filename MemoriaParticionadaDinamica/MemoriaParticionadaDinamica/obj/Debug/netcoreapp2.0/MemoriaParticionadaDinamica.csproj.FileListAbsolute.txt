@@ -1,0 +1,11 @@
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\bin\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.deps.json
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\bin\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.runtimeconfig.json
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\bin\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.runtimeconfig.dev.json
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\bin\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.dll
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\bin\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.pdb
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\obj\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.csprojAssemblyReference.cache
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\obj\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.csproj.CoreCompileInputs.cache
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\obj\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.AssemblyInfoInputs.cache
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\obj\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.AssemblyInfo.cs
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\obj\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.dll
+c:\users\dell\source\repos\MemoriaParticionadaDinamica\MemoriaParticionadaDinamica\obj\Debug\netcoreapp2.0\MemoriaParticionadaDinamica.pdb
